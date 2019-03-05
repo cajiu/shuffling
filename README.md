@@ -1,4 +1,4 @@
-原作者地址https://github.com/ximan/swipeSlide（方便自己，所以复制一份）
+方便自己，所以复制一份 原作者地址https://github.com/ximan/swipeSlide
 # swipeSlide for Zepto/jQuery Plugin
 
 ## 简介
