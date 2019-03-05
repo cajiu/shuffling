@@ -1,9 +1,10 @@
+原作者地址https://github.com/ximan/swipeSlide（方便自己，所有复制一份）
 # swipeSlide for Zepto/jQuery Plugin
 
 ## 简介
 
 移动端（基于Zepto/jQuery）的轮播插件：<http://ons.me/500.html>
-因为不能star https://github.com/ximan/swipeSlide  所有复制了一份
+
 ## 示例
 
 ![扫一扫](website.png)
